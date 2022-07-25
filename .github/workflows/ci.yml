@@ -6,6 +6,7 @@ on:
       - dev
       - master
       - dev_jan
+      - dev_transport
     tags:
       - v*
   pull_request:
